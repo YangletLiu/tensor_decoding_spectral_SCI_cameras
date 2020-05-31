@@ -39,7 +39,8 @@ The test platform is MATLAB 2019b operating on macOS, also you can run on any ma
 Overall, our algorithm’s running time is around one minute and other algorithms except DeSCI range from ten seconds to forty minutes. DeSCI’s running time will be longer than eight hours.
 
 ## Result
-![avatar](/Users/a1/Desktop/result1.png)
+![Image](https://github.com/hust512/tensor_decoding_spectral_SCI_cameras/blob/master/result-img/result1.png)
+![Image](https://github.com/hust512/tensor_decoding_spectral_SCI_cameras/blob/master/result-img/result2.png)
 
 ## Reference
 [1] W. He, Q. Yao, C. Li, N. Yokoya and Q. Zhao, “Non-local meets global: an integrated paradigm for hyperspectral denoising.” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Long Beach, CA, USA, 2019, pp. 6861-6870.
